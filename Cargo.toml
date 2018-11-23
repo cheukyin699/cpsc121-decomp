@@ -1,5 +1,5 @@
 [package]
-name = "cpsc121-decomp"
+name = "cpsc121_decomp"
 version = "0.1.0"
 authors = ["Cheuk Yin Ng <chucksys88@gmail.com>"]
 

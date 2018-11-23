@@ -125,3 +125,10 @@ It is written as follows:
 JMP addr
 JLE addr
 ```
+
+## Regards
+
+To the fellow student who is struggling to comprehend why this is written in
+Rust. It's because I want to. To the fellow Rustacean, I'm sorry for the lack of
+documentation. I had a day's time to get this up and running. Probably filled
+with bugs and the sour smell of bad practices, I know.
